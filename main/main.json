@@ -22,5 +22,24 @@
         "i am online and ready sir",
         "i can hear you, sir",
         "give me a work sir"
+    ],
+    "anyOthWor": [
+    "command me",
+    "command me, sir",
+    "sir, next work please",
+    "sir, tell me next command",
+    "do you have any other work",
+    "sir, do you have any other work",
+    "have you any other work",
+    "sir, have you any other work",
+    "tell me next command",
+    "any other work, sir",
+    "next work please",
+    "what is my next command",
+    "sir, command me",
+    "what is my next command, sir",
+    "sir, what is my next command",
+    "what can i do for you, sir",
+    "sir, what can i do for you"
     ]
 }
