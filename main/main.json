@@ -1,0 +1,26 @@
+{
+    "greetings": [
+        "jarvis",
+        "jarvis wake up",
+        "jarvis can you hear me",
+        "can you here me jarvis",
+        "wake up jarvis",
+        "you there jarvis",
+        "are you there jarvis",
+        "time to work jarvis",
+        "hey jarvis",
+        "ok jarvis",
+        "are you there"
+    ],
+    "greetingRes": [
+        "always there for you sir",
+        "i am ready sir",
+        "i am always here to help you, sir",
+        "your wish my command",
+        "how can i help you sir?",
+        "how may i help you sir?",
+        "i am online and ready sir",
+        "i can hear you, sir",
+        "give me a work sir"
+    ]
+}
