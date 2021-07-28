@@ -1,0 +1,10 @@
+{
+    "name": "jarvis",
+    "class": "ai",
+    "work": [
+        "opening youtube",
+        "opening google",
+        "calculating lot of numbers"
+    ],
+    "bot": true
+}
